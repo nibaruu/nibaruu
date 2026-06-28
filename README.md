@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=%3E+Hey+There!+I'm+Nibel+Hammadi;Computer+Science+Student;Competitive+Programmer;AI+%7C+Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=%3E+Hey+There!+I'm+Nibel+Hammadi;Computer+Science+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">
