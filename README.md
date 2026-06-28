@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=nibaruu&style=flat-square&color=blue)
 
-# Hi, I'm Nibel 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%3E+Hey+There!%2C+I+am+Nibel+Hammadi" alt="Typing SVG" />
+</p>
 🎓 Computer Science Student [2/5]
 ## Tech Stack
 
