@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue)
+![](https://komarev.com/ghpvc/?username=nibaruu&style=flat-square&color=blue)
 
 # Hi, I'm Nibel 👋
 🎓 Computer Science Student [2/5]
